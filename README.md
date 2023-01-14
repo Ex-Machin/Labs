@@ -1,4 +1,4 @@
-Run 1 programm
+Run a programm
 
 ```
 npm install -g typescript
@@ -14,4 +14,6 @@ tsc 1/4 && node 1/4
 
 opens fourth task from first lab
 
-Task 3 from fourth lab is not ready yet.
+Task 3 from fourth lab is not working and I don't know why (hours've been spent - 7);
+
+Mayby you will need to install also node js - https://nodejs.org/en/download/
